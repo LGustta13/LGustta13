@@ -37,7 +37,7 @@ I am an IoT and front-end developer from Minas Gerais, Brasil.
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
-
+<br>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
@@ -51,4 +51,14 @@ I am an IoT and front-end developer from Minas Gerais, Brasil.
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
+---
 
+### 🔥 &nbsp; My Stats :
+
+<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LGustta13&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LGustta13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
