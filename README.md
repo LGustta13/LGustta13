@@ -50,7 +50,9 @@ I am an IoT and front-end developer from Minas Gerais, Brasil.
 <!--- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)-->
+
+---
 
 ### 🔥 &nbsp; My Stats :
 
@@ -60,4 +62,4 @@ I am an IoT and front-end developer from Minas Gerais, Brasil.
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LGustta13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LGustta13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
