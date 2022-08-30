@@ -14,10 +14,10 @@
     <a href="https://web.dio.me/users/LGustta13">
     	<img src="https://img.shields.io/badge/DIO-1A1B1F?style=for-the-badge&logo=Iconfinder&logoColor=white" alt="sobre" />
     </a>
-    <a href="https://web.dio.me/users/LGustta13">
+    <a href="https://www.youtube.com/channel/UC_zSzQfSnbqxRqLys6sAv8g">
     	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="sobre" />
     </a>
-    <a href="https://web.dio.me/users/LGustta13">
+    <a href="https://www.twitch.tv/lgustta13">
     	<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="sobre" />
     </a>
     <br>
